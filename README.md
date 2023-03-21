@@ -9,7 +9,7 @@ This code provides a simple MATLAB implementation of the extended ptychographica
 
 ## Example with simulated data
 
-Run `demo_sim.m` with default parameters.
+Run [`demo_sim.m`](https://github.com/Yunhui-Gao/ptychographic-phase-retrieval/blob/master/main/demo_sim.m) with default parameters.
 
 <p align="center">
 <img src="docs/fig1.png">
@@ -25,7 +25,7 @@ Run `demo_sim.m` with default parameters.
 
 ## Example with experimental data
 
-Run `demo_exp.m` with default parameters.
+Run [`demo_exp.m`](https://github.com/Yunhui-Gao/ptychographic-phase-retrieval/blob/master/main/demo_exp.m) with default parameters.
 
 <p align="center">
 <img src="docs/fig3.png">
