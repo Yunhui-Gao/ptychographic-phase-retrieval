@@ -12,13 +12,13 @@ This code provides a simple MATLAB implementation of the extended ptychographica
 Run [`demo_sim.m`](https://github.com/Yunhui-Gao/ptychographic-phase-retrieval/blob/master/main/demo_sim.m) with default parameters.
 
 <p align="center">
-<img src="docs/fig1.png">
+<img src="imgs/fig1.png">
 </p>
 
 <p align="center">Figure 1. A simulated ptychographic dataset with 36 scanning positions.</p>
 
 <p align="center">
-<img src="docs/fig2.png">
+<img src="imgs/fig2.png">
 </p>
 
 <p align="center">Figure 2. Reconstruction using the simulated dataset.</p>
@@ -28,13 +28,13 @@ Run [`demo_sim.m`](https://github.com/Yunhui-Gao/ptychographic-phase-retrieval/b
 Run [`demo_exp.m`](https://github.com/Yunhui-Gao/ptychographic-phase-retrieval/blob/master/main/demo_exp.m) with default parameters.
 
 <p align="center">
-<img src="docs/fig3.png">
+<img src="imgs/fig3.png">
 </p>
 
 <p align="center">Figure 3. An experimentally collected dataset with 49 images in the near-field regime.</p>
 
 <p align="center">
-<img src="docs/fig4.png">
+<img src="imgs/fig4.png">
 </p>
 
 <p align="center">Figure 4. Reconstruction using the experimental dataset.</p>
